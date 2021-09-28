@@ -1,0 +1,54 @@
+{
+  "name": "Fractures Series 1: #23",
+  "symbol": "",
+  "description": "A mutation of Fractures Series 1: #4.",
+  "seller_fee_basis_points": 1500,
+  "image": "image.png",
+  "animation_url": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Sphere",
+      "value": "Reflective"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Freed"
+    },
+    {
+      "trait_type": "Augmentation",
+      "value": "Commodity"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Depths"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mutation"
+    },
+    {
+      "trait_type": "Series",
+      "value": "1"
+    }
+  ],
+  "collection": {
+     "name": "Series 1",
+     "family": "Fractures" 
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Bm3W92wGFqc2xjanmhzey2Zy5wYkRBHFAhePVkBzKGhj",
+        "share": 100
+      }
+    ]
+  }
+} 
